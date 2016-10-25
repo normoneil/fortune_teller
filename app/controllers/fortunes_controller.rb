@@ -15,3 +15,5 @@ class FortunesController < ApplicationController
     render("unlucky.html.erb")
   end
 end
+
+# test
